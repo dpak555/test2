@@ -1,5 +1,3 @@
-package com.vaannila.domain;
-
 public class User {
 
 	private String name;
