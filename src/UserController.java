@@ -1,10 +1,5 @@
-package com.vaannila.web;
-
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.SimpleFormController;
-
-import com.vaannila.domain.User;
-import com.vaannila.service.UserService;
 
 @SuppressWarnings("deprecation")
 public class UserController extends SimpleFormController {
